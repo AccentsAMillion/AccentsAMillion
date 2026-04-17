@@ -90,6 +90,20 @@ These systems reduce coordination overhead between intake signals and execution 
 
 ---
 
+## Sonora Architecture
+
+![Sonora Architecture](docs/sonora-architecture.png)
+
+## Workflow Routing Layer
+
+![Workflow Routing](docs/workflow-routing.png)
+
+## Annotation Dataset Pipeline
+
+![Annotation Pipeline](docs/annotation-pipeline.png)
+
+---
+
 ## Current Interests
 
 * internal AI sandbox tooling
