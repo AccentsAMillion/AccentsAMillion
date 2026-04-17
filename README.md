@@ -45,6 +45,15 @@ https://github.com/AccentsAMillion/sonora-growth-engine
 
 ---
 
+### Workflow Execution Architecture Patterns
+
+Design patterns for converting signals into structured routing decisions and downstream execution triggers.
+
+Repository:
+https://github.com/AccentsAMillion/ai-workflow-execution-patterns
+
+---
+
 ### Unstructured Data → Analytics Pipeline
 
 Transforms raw documents, logs, and conversations into structured metadata for downstream analytics environments.
@@ -54,9 +63,19 @@ Pipeline pattern:
 ```
 ingestion → transcription → entity extraction → metadata structuring → dataset generation
 ```
+Repository:
+https://github.com/AccentsAMillion/unstructured-data-pipeline-patterns
 
 ---
 
+### Platform Operations Runbooks
+
+Operational triage and dependency-mapping patterns for distributed infrastructure environments.
+
+Repository:
+https://github.com/AccentsAMillion/platform-operations-runbooks
+
+---
 ### Audio Intelligence Workflow
 
 End-to-end pipeline converting speech into structured annotation-ready datasets.
@@ -84,9 +103,11 @@ Focus:
 
 ## Platform Perspective
 
-I build AI systems that operate workflows instead of assisting users.
+Most AI systems assist users.
 
-These systems reduce coordination overhead between intake signals and execution layers while producing structured datasets usable across analytics pipelines.
+Execution-oriented systems interpret signals, produce structured decisions, and trigger downstream workflows while generating reusable datasets for analytics and evaluation pipelines.
+
+My work explores how routing-aware orchestration layers reduce coordination overhead between intake signals and execution surfaces.
 
 ---
 
@@ -102,6 +123,16 @@ These systems reduce coordination overhead between intake signals and execution 
 
 ![Annotation Pipeline](docs/annotation-pipeline.png)
 
+---
+
+### Current Interests
+-workflow-aware LLM systems
+-dataset lifecycle automation
+-annotation pipeline infrastructure
+-routing-layer execution systems
+-distributed analytics environments
+
+---
 ---
 
 ## Current Interests
