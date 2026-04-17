@@ -1,6 +1,6 @@
 # Christopher Woodward
 
-### AI Systems & Data Infrastructure | Workflow Execution Platforms | Unstructured Data Intelligence
+### AI Systems & Data Infrastructure | Workflow Execution Platforms | Unstructured Data Intelligence | Distributed Analytics Readiness
 
 I design systems that convert conversational and unstructured signals into structured decisions that trigger downstream execution workflows.
 
